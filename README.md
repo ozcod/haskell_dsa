@@ -20,10 +20,8 @@ Whether you’re just starting out with Haskell or revisiting functional program
 ## 📂 Structure
 
 ```
-haskell-practice/
+haskell-dsa/
 │── problems/         # Coding challenges & exercises
-│── concepts/         # Functional programming concepts
-│── notes/            # Short explanations and learnings
 │── README.md         # You are here
 ```
 
